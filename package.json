@@ -1,0 +1,23 @@
+{
+  "name": "jgn-show-my-name",
+  "version": "1.0.0",
+  "description": "I wanna show my name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGNin1990/jgn-show-my-name.git"
+  },
+  "keywords": [
+    "show",
+    "name"
+  ],
+  "author": "ko moe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGNin1990/jgn-show-my-name/issues"
+  },
+  "homepage": "https://github.com/JGNin1990/jgn-show-my-name#readme"
+}
